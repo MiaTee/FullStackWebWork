@@ -19,31 +19,52 @@ header {
 
 section {
     background:#eee;
+    padding: 20px;
+  margin-bottom: 20px;
 }
 
 #left {
   background:#666;
+  float:left;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 #middle {
   background:#888;
+  float:left;
+  padding: 20px;
+  margin-bottom: 20px;
 
 }
 
 #right {
   background:#666;
+  float:left;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 #full {
   background:#fff;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 #division {
+  background:#6ea3da;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 aside {
   background:#fff;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 footer {
+  background: #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
 }
