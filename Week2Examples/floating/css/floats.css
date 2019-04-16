@@ -28,6 +28,7 @@ section {
   float:left;
   padding: 20px;
   margin-bottom: 20px;
+  width:30%;
 }
 
 #middle {
@@ -35,6 +36,7 @@ section {
   float:left;
   padding: 20px;
   margin-bottom: 20px;
+  width:30%;
 
 }
 
@@ -43,6 +45,7 @@ section {
   float:left;
   padding: 20px;
   margin-bottom: 20px;
+  width:30%;
 }
 
 #full {
