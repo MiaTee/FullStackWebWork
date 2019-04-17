@@ -3,25 +3,80 @@ body{
     background: #777;
     width: 960px;
     font-size: 18px;
+    padding-left: 60px;
 }
 
 header{
     background:#ebebeb;
+    position:center;
+    height: 40px;
+    margin-bottom:6px;
+    margin-top:12px;
+    text-align: center;
+    padding-top: 20px;
 }
 
 nav{
     background:#ebebeb;
+    width:full;
+    position:center;
+    height:40px;
+    margin-top:6px;
+    margin-bottom:6px;
+    text-align: center;
+    box-align: center;
+    padding-top: 20px;
+    
+    
 
 }
 
 section{
     background: #ebebeb;
     width: 495px;
+    margin-top:6px;
+    margin-bottom:6px;
+    box-align: left;
+    text-align: center;
 
+
+}
+#article{
+    background:#777;
+    color:#ebebeb;
+    text-align: center;
+}
+#h1h2h3{
+    color:#777;
+    background: #ebebeb;
+    text-align: center;
+    padding-bottom:15px;
+    padding-top:15px;
+    padding-left:15px;
+    padding-right:15px;
+}
+#p{
+    color:#777;
+    background: #ebebeb;
+    text-align: center;
+    padding-bottom:15px;
+    padding-top:15px;
+    padding-left:15px;
+    padding-right:15px;
 }
 aside{
     background:#ebebeb;
+    margin-top:6px;
+    margin-bottom:6px;
+    text-align: center;
+    
 }
 footer{
     background:#ebebeb;
+    margin-top:6px;
+    margin-bottom:6px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }
+
