@@ -4,3 +4,24 @@ body{
     width: 960px;
     font-size: 18px;
 }
+
+header{
+    background:#ebebeb;
+}
+
+nav{
+    background:#ebebeb;
+
+}
+
+section{
+    background: #ebebeb;
+    width: 495px;
+
+}
+aside{
+    background:#ebebeb;
+}
+footer{
+    background:#ebebeb;
+}
