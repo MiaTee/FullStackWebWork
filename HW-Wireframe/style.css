@@ -34,10 +34,19 @@ nav{
 section{
     background: #ebebeb;
     width: 495px;
-    margin-top:6px;
-    margin-bottom:6px;
+    height: 250px;
+    margin-top:20px;
+    margin-bottom:4px;
     box-align: left;
     text-align: center;
+    margin-right:10px;
+    padding-top:20px;
+    
+    
+   
+  
+    
+    
 
 
 }
@@ -45,6 +54,12 @@ section{
     background:#777;
     color:#ebebeb;
     text-align: center;
+    position: relative;
+    margin-left:12px;
+    margin-top:12px;
+    margin-right:12px;
+    top:20px;
+    
 }
 #h1h2h3{
     color:#777;
@@ -54,6 +69,12 @@ section{
     padding-top:15px;
     padding-left:15px;
     padding-right:15px;
+    position: relative;
+    width: 430px;
+    margin-left:12px;
+    margin-bottom:12px;
+    right:5px;
+    
 }
 #p{
     color:#777;
@@ -63,20 +84,44 @@ section{
     padding-top:15px;
     padding-left:15px;
     padding-right:15px;
+    position: relative;
+    width: 430px;
+    margin-left:12px;
+    margin-bottom:12px;
+    right:5px;
+    top:-8px;
+
+
+    
 }
 aside{
     background:#ebebeb;
     margin-top:6px;
     margin-bottom:6px;
+    width:450px;
+    height: 250px;
+    padding-top: 20px;
     text-align: center;
+    float:right;
+    padding-left:-10px;
+    position: relative;
+    bottom: 280px;
+ 
+    
+    
     
 }
 footer{
+
     background:#ebebeb;
-    margin-top:6px;
+    position:center;
+    height: 40px;
     margin-bottom:6px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    margin-top:12px;
     text-align: center;
+    padding-top: 20px;
+    padding-left: 450px;
+
+    
 }
 
