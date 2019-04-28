@@ -1,0 +1,10 @@
+.hover-over-red:hover{
+    background-color:red;
+}
+.focus-orange:focus{
+    background-color:orange;
+
+}
+.active-brown:active{
+    background-color:brown;
+}
