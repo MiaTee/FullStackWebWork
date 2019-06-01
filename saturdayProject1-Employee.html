@@ -26,7 +26,7 @@
     <!-- using bootstrap bordered table-->
     <div class="container">
         <h2> Current Employees</h2>
-        <table class="table table-bordered">
+        <table class="table table-bordered" id="employee-table">
             <tr>
                 <th> Employee Name</th>
                 <th> Role</th>
@@ -88,6 +88,9 @@
       var role = $("#role-input").val();
       var date = $("#date-input").val();
       var rate = $("#rate-input").val();
+      var total = $("#total-input").val();
+      $("#employee-table").append("<tr><td>" + name+"</td> <td>" + role+"</td> <td>" + date+"</td> <td>" + date+"</td> <td>" + rate+ "</td> <td>" + total+"</td></tr>");
+
       // Code in the logic for storing and retrieving the most recent user.
       database.ref().push({
         name: name,
