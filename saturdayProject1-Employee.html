@@ -89,7 +89,7 @@
       var date = $("#date-input").val();
       var rate = $("#rate-input").val();
       // Code in the logic for storing and retrieving the most recent user.
-      database.ref().set({
+      database.ref().push({
         name: name,
         role: role,
         date: date,
